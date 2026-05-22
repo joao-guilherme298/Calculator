@@ -1,4 +1,4 @@
-print("ola, bem vindo a calculadora de bhaskara!/n")
+print("ola, bem vindo a calculadora de bhaskara!\n")
 a = float(input("Digite o A: "))
 b = float(input("Digite o B: "))
 c = float(input("Digite o C: "))
