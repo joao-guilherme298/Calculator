@@ -1,0 +1,1 @@
+print("ola, bem vindo a calculadora")
